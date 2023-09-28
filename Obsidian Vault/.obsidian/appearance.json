@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff00ea",
+  "cssTheme": "Dracula Plus",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Agency FB",
+  "translucency": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "baseFontSize": 22
+}
