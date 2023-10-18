@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/JSX.md",
+                "file": "REACT/CSS + REACT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/JSX.md",
+                "file": "REACT/CSS + REACT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/JSX.md",
+                "file": "REACT/CSS + REACT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/JSX.md"
+                "file": "REACT/CSS + REACT.md"
               }
             }
           },
@@ -171,9 +171,15 @@
   },
   "active": "fd8fec79accb5c7a",
   "lastOpenFiles": [
+    "Pasted image 20231018175912.png",
+    "REACT/PROPS.md",
+    "REACT/CSS + REACT.md",
+    "Pasted image 20231018165215.png",
+    "Pasted image 20231018165027.png",
+    "REACT/COMPONENTES.md",
+    "REACT/JSX.md",
     "REACT/Para usar o CLASS.md",
     "APIs/API.md",
-    "REACT/JSX.md",
     "REACT/CONCEITO -  React.md",
     "JAVA-SCRIPT/FUNÇÕES.md",
     "REACT",
@@ -195,8 +201,6 @@
     "Pasted image 20230928143222.png",
     "Pasted image 20230926173615.png",
     "Pasted image 20230926173515.png",
-    "Pasted image 20230926171257.png",
-    "Pasted image 20230918151321.png",
     "HTML5 - CSS3/GROUPING - TAGS.md",
     "JAVA-SCRIPT/Sem título",
     "HTML5 - CSS3/PSEUDO-CLASSES.md",
