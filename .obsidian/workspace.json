@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2c88a5f62a1c09f4",
-        "type": "tabs",
+        "id": "6700333a07d732ab",
+        "type": "split",
         "children": [
           {
-            "id": "26da9f7e8eac6152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA-SCRIPT/FUNÇÕES.md",
-                "mode": "source",
-                "source": false
+            "id": "361dfecb7e25cd79",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd8fec79accb5c7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "REACT/PROPS.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "fd8fec79accb5c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/PROPS.md",
-                "mode": "source",
-                "source": false
+            "id": "2c88a5f62a1c09f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26da9f7e8eac6152",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "JAVA-SCRIPT/FUNÇÕES.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
