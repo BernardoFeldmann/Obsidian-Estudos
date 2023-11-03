@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/PROPS.md",
+                "file": "JAVA-SCRIPT/FUNÇÕES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/PROPS.md",
+                "file": "JAVA-SCRIPT/FUNÇÕES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/PROPS.md"
+                "file": "JAVA-SCRIPT/FUNÇÕES.md"
               }
             }
           },
@@ -181,14 +181,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fd8fec79accb5c7a",
+  "active": "26da9f7e8eac6152",
   "lastOpenFiles": [
+    "REACT/PROPS.md",
     "REACT/FRAGMENTOS.md",
     "REACT/Para usar o CLASS.md",
     "REACT/CSS + REACT.md",
     "REACT/JSX.md",
     "Pasted image 20231018175912.png",
-    "REACT/PROPS.md",
     "Pasted image 20231018165215.png",
     "Pasted image 20231018165027.png",
     "REACT/COMPONENTES.md",
