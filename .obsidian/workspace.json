@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6700333a07d732ab",
-        "type": "split",
+        "id": "361dfecb7e25cd79",
+        "type": "tabs",
         "children": [
           {
-            "id": "361dfecb7e25cd79",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd8fec79accb5c7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "REACT/PROPS.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "fd8fec79accb5c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/PROPS.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "2c88a5f62a1c09f4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "26da9f7e8eac6152",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "JAVA-SCRIPT/FUNÇÕES.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA-SCRIPT/FUNÇÕES.md",
+                "file": "REACT/PROPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA-SCRIPT/FUNÇÕES.md",
+                "file": "REACT/PROPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA-SCRIPT/FUNÇÕES.md"
+                "file": "REACT/PROPS.md"
               }
             }
           },
@@ -181,8 +156,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "26da9f7e8eac6152",
+  "active": "fd8fec79accb5c7a",
   "lastOpenFiles": [
+    "JAVA-SCRIPT/FUNÇÕES.md",
     "REACT/PROPS.md",
     "REACT/FRAGMENTOS.md",
     "REACT/Para usar o CLASS.md",
@@ -194,7 +170,6 @@
     "REACT/COMPONENTES.md",
     "APIs/API.md",
     "REACT/CONCEITO -  React.md",
-    "JAVA-SCRIPT/FUNÇÕES.md",
     "REACT",
     "JAVA-SCRIPT/VAR COMPOSTAS.md",
     "2023-08-31.md",
