@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REACT/PROPS.md",
+                "file": "2023-11-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/PROPS.md",
+                "file": "2023-11-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/PROPS.md",
+                "file": "2023-11-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/PROPS.md"
+                "file": "2023-11-20.md"
               }
             }
           },
@@ -158,11 +159,13 @@
   },
   "active": "fd8fec79accb5c7a",
   "lastOpenFiles": [
-    "REACT/UseState.md",
+    "Sem título 1.canvas",
+    "2023-11-20.md",
+    "REACT/Para usar o CLASS.md",
     "REACT/PROPS.md",
+    "REACT/UseState.md",
     "JAVA-SCRIPT/FUNÇÕES.md",
     "REACT/FRAGMENTOS.md",
-    "REACT/Para usar o CLASS.md",
     "REACT/CSS + REACT.md",
     "REACT/JSX.md",
     "Pasted image 20231018175912.png",
@@ -196,11 +199,9 @@
     "Sem título.md",
     "Sem título.canvas",
     "Sem título 1.md",
-    "Sem título 2.md",
     "JAVA-SCRIPT",
     "APIs",
     "HTML5 - CSS3/Imagens",
-    "HTML CSS/Sem título 1.md",
     "Sem título 1",
     "HTML5 - CSS3",
     "HTML CSS/Sem título.canvas",
